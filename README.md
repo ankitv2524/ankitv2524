@@ -1,3 +1,8 @@
+<!-- MASTER PIC -->
+
+<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="500" height="300" src="https://indoanalytica.com/static/images/data-science-2.gif" height="175px"/></a>
+
+
 <h1 align="center">Hi 👋, I'm Ankit Verma</h1>
 <h3 align="center">A Data Science Enthusiast from India</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
@@ -5,6 +10,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitv2524&label=Profile%20views&color=0e75b6&style=flat" alt="ankitv2524" /> </p>
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/ankitv2524" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/ankitv2524?logo=twitter&style=for-the-badge" alt="https://twitter.com/ankitv2524" /></a> </p>
+
+<!-- ABOUT ME -->
+
+<img align="right" alt="Coding" width="400" height="300" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
 
 - 🌱 I’m currently learning **Machine Learning**
 
