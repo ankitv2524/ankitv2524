@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://ankitverma.dev.voyage](https://ankitverma.dev.voyage)
+- 👨‍💻 All of my projects are available at [Link](https://ankitverma.dev.voyage)
 
 - 💬 Ask me about **Data Science, Machine Learning**
 
