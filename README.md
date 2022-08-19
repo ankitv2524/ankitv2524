@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ankitv2524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ankitv2524" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/ankitv2524" target="blank"><img align="center" src="https://www.kaggle.com/ankitv2524" alt="https://www.linkedin.com/in/ankitv2524/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/ankitv2524" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="https://www.linkedin.com/in/ankitv2524/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12705319/ankit-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12705319/ankit-verma" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/ankitv2524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ankitv2524" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/ankitv2524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ankitv2524" height="30" width="40" /></a>
