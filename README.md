@@ -5,7 +5,11 @@
 
 <h1 align="center">Hi 👋, I'm Ankit Verma</h1>
 <h3 align="center">A Data Science Practitioner With One Year of Experience in the Field of Data Analysis</h3>
-<img align = "right" alt = "Coding" width = "400" src = "https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
+
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitv2524&label=Profile%20views&color=0e75b6&style=flat" alt="ankitv2524" /> </p>
 
@@ -13,9 +17,8 @@
 <!-- INSERTING GIF ON RIGHT HAND SIDE AFTER ABOUT  -->
 
 <h2 dir="auto"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="25" data-animated-image="" ></a> <strong>About Me:</strong></h2>
-<br>
+<img align = "MIDDLE" alt = "Coding" width = "200"  src = "https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
-🌱 
 - Seasoned Data Analyst with one year of hands-on experience, adept at transforming raw data into actionable insights to drive strategic decision-making and improve operational efficiency.
 - Proficient in data cleaning, manipulation, and visualization techniques, utilizing tools such as Python, SQL, and Tableau to extract valuable insights from complex datasets.
 - Skilled in conducting thorough analysis and interpretation of data trends, patterns, and anomalies, contributing to the development of data-driven strategies and solutions.
@@ -24,7 +27,7 @@
 - Committed to continuous learning and professional development, staying updated with the latest trends and technologies in the field of data analysis to drive innovation and achieve organizational goals.
 - 👨‍💻 All of my projects are available at [Link](https://ankitverma.dev.voyage)
 - 📫 How to reach me **ankitv2524@gmail.com**
-- Check out My [Resume](https://drive.google.com/file/d/1f30rToHoIBgLFVVGC_9KZM5j6AEbBiBk/view?usp=sharing)
+- 🌱 Check out My [Resume](https://drive.google.com/file/d/1f30rToHoIBgLFVVGC_9KZM5j6AEbBiBk/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
