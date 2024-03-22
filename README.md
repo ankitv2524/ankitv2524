@@ -15,12 +15,14 @@
 <h2 dir="auto"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="25" data-animated-image="" ></a> <strong>About Me:</strong></h2>
 <br>
 
-- 🌱 I’m currently learning **Machine Learning**
-
+🌱 
+- Seasoned Data Analyst with one year of hands-on experience, adept at transforming raw data into actionable insights to drive strategic decision-making and improve operational efficiency.
+- Proficient in data cleaning, manipulation, and visualization techniques, utilizing tools such as Python, SQL, and Tableau to extract valuable insights from complex datasets.
+- Skilled in conducting thorough analysis and interpretation of data trends, patterns, and anomalies, contributing to the development of data-driven strategies and solutions.
+- Proven track record of effectively communicating findings and recommendations to diverse stakeholders, facilitating informed decision-making at all levels of the organization.
+- Experienced in collaborating cross-functionally with teams to identify business requirements, develop analytical solutions, and measure key performance indicators.
+- Committed to continuous learning and professional development, staying updated with the latest trends and technologies in the field of data analysis to drive innovation and achieve organizational goals.
 - 👨‍💻 All of my projects are available at [Link](https://ankitverma.dev.voyage)
-
-- 💬 Ask me about **Data Science, Machine Learning**
-
 - 📫 How to reach me **ankitv2524@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
