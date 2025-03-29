@@ -27,7 +27,6 @@
 - Committed to continuous learning and professional development, staying updated with the latest trends and technologies in the field of data analysis to drive innovation and achieve organizational goals.
 - 👨‍💻 All of my projects are available at [Link](https://ankitverma.dev.voyage)
 - 📫 How to reach me **ankitv2524@gmail.com**
-- 🌱 Check out My [Resume](https://drive.google.com/file/d/1f30rToHoIBgLFVVGC_9KZM5j6AEbBiBk/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
