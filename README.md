@@ -25,7 +25,7 @@
 - Proven track record of effectively communicating findings and recommendations to diverse stakeholders, facilitating informed decision-making at all levels of the organization.
 - Experienced in collaborating cross-functionally with teams to identify business requirements, develop analytical solutions, and measure key performance indicators.
 - Committed to continuous learning and professional development, staying updated with the latest trends and technologies in the field of data analysis to drive innovation and achieve organizational goals.
-- 👨‍💻 All of my projects are available at [Link](https://ankitverma.dev.voyage)
+- 👨‍💻 All of my projects are available at github repo.
 - 📫 How to reach me **ankitv2524@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
